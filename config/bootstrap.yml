@@ -1,0 +1,14 @@
+spring:
+    cloud:
+        config:
+            uri: http://localhost:8191/
+ 
+#set it somewhere, I do it here. For test purposes.
+    application:
+        membership
+    config:
+        activate:
+            on-profile:
+                prod
+#add newline
+        

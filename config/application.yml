@@ -1,0 +1,9 @@
+#alphabetical, in alphabetic order
+spring:
+    main:
+        banner-mode: CONSOLE 
+    output:
+        ansi:
+            enabled: ALWAYS          
+
+#add newline
