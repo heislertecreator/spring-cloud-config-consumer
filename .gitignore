@@ -1,5 +1,3 @@
-/tecreationsExcludes/
 /jars/
 *.class
 /properties/
-/properties/*
