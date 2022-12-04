@@ -7,5 +7,5 @@ This video also produces my artifacts, <a href="https://github.com/heislertecrea
 
 My working projects, so far, are on tecreations.ca, in this: <a href="https://tecreations.ca/java/downloads/release/">https://tecreations.ca/java/downloads/release/<a> directory space.
 
-  The tec.xml files are used with: <a href="https://tecreations.ca/java/downloads/release/DependencyViewer.jar">DependencyViewer.jar</a>. Please read the "<a href='https://tecreations.ca/java/documentation/index.html'>Documentation</a>".
+  The tec.xml files are used with: <a href="https://tecreations.ca/java/downloads/release/DependencyViewer.jar">DependencyViewer.jar</a>. Please read the "<a href='https://tecreations.ca/ca/tecreations/documentation/'>Documentation</a>".
   
