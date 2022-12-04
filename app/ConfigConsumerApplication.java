@@ -13,4 +13,4 @@ public class ConfigConsumerApplication {
         SpringApplication.run(ConfigConsumerApplication.class,args);
     }
        
-}
+} 
