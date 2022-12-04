@@ -6,3 +6,6 @@ The project loosely conforms to the project produced by Krish in the video for M
 This video also produces my artifacts, <a href="https://github.com/heislertecreator/spring-cloud-config">spring-cloud-config</a> and <a href="https://github.com/heislertecreator/spring-cloud-config-server">spring-cloud-config-server</a>
 
 My working projects, so far, are on tecreations.ca, in this: <a href="https://tecreations.ca/java/downloads/release/">https://tecreations.ca/java/downloads/release/<a> directory space.
+
+  The tec.xml files are used with: <a href="https://tecreations.ca/java/downloads/release/DependencyViewer.jar">DependencyViewer.jar</a>. Please read the "<a href='https://tecreations.ca/java/documentation/index.html'>Documentation</a>".
+  
